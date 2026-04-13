@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+warnings
+scikit-learn
+imbalanced-learn
